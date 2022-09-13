@@ -4,7 +4,7 @@ This is the classic Hello World program, I wrote it to demonstrate my developmen
 
 Function: Print "Hello World"
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aYOnz5MvqEM)
 
 # Development Environment
 
@@ -14,5 +14,4 @@ Function: Print "Hello World"
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+[How To Use GitHub with Visual Studio Code(Youtube)](https://www.youtube.com/watch?v=aUhl3B6ZweQ)
